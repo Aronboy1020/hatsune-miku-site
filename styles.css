@@ -1,0 +1,64 @@
+header {
+  border-bottom: solid 2px rgb(255, 255, 255);
+  padding: 20px;
+  font-size: 32px;
+  color: rgb(255, 255, 255);
+    
+}
+
+body {
+  color: rgb(0, 0, 0);
+  background-color: black;
+  margin: 0px;
+  font-size: 25;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+h1 {
+
+  font-size: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+}
+
+
+.recomendacoes{
+  float: right;
+  width:20%;
+
+}
+
+section {
+  content: "";
+  display: table;
+  clear: both;
+  background-color: aquamarine;
+  height: 100vh;
+  width: 100vw;
+}
+.thumb {
+height: 117px;
+
+}
+nav {
+
+  float: left;
+    padding: 20px;
+
+}
+.div-section-01{
+  float: left;
+  justify-content: center;
+  
+}
+
+.chamada-texto{
+  margin-right: 50px;
+  
+}
+
+.gif-hatsune{
+  height: 40px;
+  width: 40px;
+}
